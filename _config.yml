@@ -15,8 +15,8 @@ author :
   name : liangxiaoju
   email : liangxiaoju@gmail.com
   github : liangxiaoju
-#  twitter : username
-#  feedburner : feedname
+  twitter : nil
+  feedburner : nil
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
