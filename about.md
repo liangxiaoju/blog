@@ -6,4 +6,4 @@ group: navigation
 ---
 {% include JB/setup %}
 
-- Email: <liangxiaoju@gmail.com>
+- Email: liangxiaoju#gmail.com
